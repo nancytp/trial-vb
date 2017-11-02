@@ -16,7 +16,7 @@ namespace ClassLibrary1
 
 {
 
-    "trying to do a conflict"
+    "another try to conflict"
 
 }
 }
