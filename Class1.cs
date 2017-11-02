@@ -18,5 +18,7 @@ namespace ClassLibrary1
 
     "4th try another try to conflict"
 
+    with project
+
 }
 }
