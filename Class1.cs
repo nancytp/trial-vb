@@ -16,7 +16,7 @@ namespace ClassLibrary1
 
 {
 
-    2nd attempt to commit
+    "trying to do a conflict"
 
 }
 }
